@@ -21,6 +21,28 @@ h1,p{
     
 }
 
+#login{
+    min-width: 250px;
+    background-color: rgba(255,255,255,0.7);
+    padding: 14px 14px 0;
+    overflow: hidden;
+}
+#login .social-button{
+    margin:12px 0;
+}
+
+.btn-fb{
+    color: #fff;
+    background-color: #3b599d;
+    margin-left: 6%;
+    margin-right: 15%;
+}
+.btn-li{
+    color: #fff;
+    background-color: #0077b5;
+    margin-left: 2%;
+}
+
 .fa-twitter{
     color: white;
     
